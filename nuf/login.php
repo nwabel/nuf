@@ -15,7 +15,7 @@ include("./connection.php");
 
     <body>
         <div class="container">
-            <div class="rowa">
+            <div class="row">
                 <div class="col"></div>
 
                 <div class="col mt-5">
